@@ -1,3 +1,3 @@
-# SASS-Projects
+# SASS-Project
 
 https://keremilhan.github.io/SASS-Project/
